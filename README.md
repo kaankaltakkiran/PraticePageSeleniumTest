@@ -2,6 +2,10 @@
 
 PraticePage Selenium Test Automation
 
+Bu Sitede Test İşelmleri Yapılmıştır.
+
+https://www.letskodeit.com/practice
+
 ![Screenshot_8](https://github.com/kaankaltakkiran/PraticePageSeleniumTest/assets/98158194/defe24d3-9f70-4c85-ad2d-6e44c490264d)
 
 ![Screenshot_9](https://github.com/kaankaltakkiran/PraticePageSeleniumTest/assets/98158194/9940f25b-5ce3-4950-8991-5c113dd6bccb)
