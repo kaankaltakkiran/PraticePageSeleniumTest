@@ -1,8 +1,11 @@
 # PraticePageSeleniumTest
 PraticePage Selenium Test Automation
 Kullandığım Kaynaklar
+
 https://github.com/kaankaltakkiran/SeleniumTest-C_Sharp
+
 https://demoqa.com/
+
 https://medium.com/@ilkebasalak/selenium-nedir-8c7d908c93e6
 https://www.maxtaf.com/blog/selenium-c-webdriver-wait-until-element-present
 https://www.selenium.dev/documentation/webdriver/waits/
