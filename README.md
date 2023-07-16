@@ -60,6 +60,8 @@ https://bobbyhadz.com/blog/mvn-is-not-recognized-as-internal-or-external-command
 
 https://www.letskodeit.com/practice
 
+Ranorex Selocity
+
 nuget
 
 DotNetSeleniumExtras.PageObjects.Core
