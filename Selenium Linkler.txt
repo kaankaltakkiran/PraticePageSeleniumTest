@@ -22,6 +22,8 @@ http://localhost:8080/login?from=%2F
 https://stackoverflow.com/questions/12350707/jenkins-in-windows-shows-ui-in-russian-language
 https://bobbyhadz.com/blog/mvn-is-not-recognized-as-internal-or-external-command
 https://www.letskodeit.com/practice
+
+https://chrome.google.com/webstore/detail/ranorex-selocity/ocgghcnnjekfpbmafindjmijdpopafoe
 nuget
 DotNetSeleniumExtras.PageObjects.Core
 ExtentReports 
